@@ -108,6 +108,13 @@
   </url>
   
   <url>
+    <loc>http://www.messi.ltd/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2022-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.messi.ltd/tags/html/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -136,13 +143,6 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/urllib/</loc>
-    <lastmod>2022-11-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.messi.ltd/tags/scrapy/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -150,7 +150,7 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
+    <loc>http://www.messi.ltd/tags/urllib/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -166,14 +166,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/categories/python/</loc>
+    <loc>http://www.messi.ltd/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>http://www.messi.ltd/categories/python/</loc>
     <lastmod>2022-11-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
