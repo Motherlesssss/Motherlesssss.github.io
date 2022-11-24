@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.messi.ltd/posts/ea6d17dc.html</loc>
+    
+    <lastmod>2022-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.messi.ltd/posts/15d1eb56.html</loc>
     
     <lastmod>2022-11-24</lastmod>
@@ -128,6 +137,13 @@
 
   
   <url>
+    <loc>http://www.messi.ltd/tags/git/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.messi.ltd/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -184,14 +200,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/urllib/</loc>
+    <loc>http://www.messi.ltd/tags/scrapy/</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/scrapy/</loc>
+    <loc>http://www.messi.ltd/tags/urllib/</loc>
     <lastmod>2022-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -205,6 +221,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://www.messi.ltd/categories/Git/</loc>
+    <lastmod>2022-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://www.messi.ltd/categories/%E6%97%A5%E5%B8%B8/</loc>
