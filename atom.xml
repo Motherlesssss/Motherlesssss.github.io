@@ -6,7 +6,7 @@
   <link href="http://www.messi.ltd/atom.xml" rel="self"/>
   
   <link href="http://www.messi.ltd/"/>
-  <updated>2022-11-26T07:43:42.235Z</updated>
+  <updated>2022-11-26T09:32:20.320Z</updated>
   <id>http://www.messi.ltd/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Git学习记录（二）</title>
+    <title>Git学习记录（二）（正在持续更新）</title>
     <link href="http://www.messi.ltd/posts/1d65caa7.html"/>
     <id>http://www.messi.ltd/posts/1d65caa7.html</id>
     <published>2022-11-26T07:42:40.000Z</published>
-    <updated>2022-11-26T07:43:42.235Z</updated>
+    <updated>2022-11-26T09:32:20.320Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>作者：下里巴人</p><footer><strong>来自</strong><cite>南京审计大学</cite></footer></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>作者：下里巴人</p><footer><strong>来自</strong><cite>南京审计大学</cite></footer></blockquote><h1 id="工作区和暂存区"><a href="#工作区和暂存区" class="headerlink" title="工作区和暂存区"></a>工作区和暂存区</h1><h2 id="工作区"><a href="#工作区" class="headerlink" title="工作区"></a>工作区</h2><p>在我们之前的操作中，工作区就指的是<em><strong>learngit</strong></em>文件夹。</p><h2 id="版本库"><a href="#版本库" class="headerlink" title="版本库"></a>版本库</h2><p>工作区有一个隐藏目录<em><strong>.git</strong></em>，这个不算工作区，而是<em><strong>Git</strong></em>的版本库。<em><strong>Git</strong></em>的版本库里存了很多东西，其中最重要的就是称为<em><strong>stage</strong></em>（或者叫<em><strong>index</strong></em>）的暂存区，还有<em><strong>Git</strong></em>为我们自动创建的第一个分支<em><strong>master</strong></em>，以及指向<em><strong>master</strong></em>的一个指针叫<em><strong>HEAD</strong></em>。</p><img src="https://pic3.zhimg.com/80/v2-701e02bf0b2d71ab51b7e2b6aa973d52_1440w.webp"><p>正如我们之前所讲，我们提交文件一共分两步:<ul>  <li><em><strong>git add</strong></em>命令是将文件修改添加到暂存区。</li>  <li><em><strong>git commit</strong></em>命令是把暂存区的所有内容提交到当前分支</li></ul><h2 id="操作演示"><a href="#操作演示" class="headerlink" title="操作演示"></a>操作演示</h2><p>我们首先对<em><strong>readme.txt</strong></em>做一个修改，如下：</p><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Git is a distributed version control system.</span><br><span class="line">Git is free software distributed under the GPL.</span><br><span class="line">Git has a mutable index called stage.</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
@@ -31,7 +31,7 @@
     <summary type="html">&lt;blockquote&gt;&lt;p&gt;作者：下里巴人&lt;/p&gt;
 &lt;footer&gt;&lt;strong&gt;来自&lt;/strong&gt;&lt;cite&gt;南京审计大学&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
 
-</summary>
+&lt;h1 id=&quot;工作区和暂存区&quot;&gt;&lt;a href=&quot;#工作区和暂存区&quot; class=&quot;</summary>
       
     
     
