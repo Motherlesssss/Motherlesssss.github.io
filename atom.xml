@@ -6,7 +6,7 @@
   <link href="http://www.messi.ltd/atom.xml" rel="self"/>
   
   <link href="http://www.messi.ltd/"/>
-  <updated>2022-11-25T16:04:45.340Z</updated>
+  <updated>2022-11-26T07:43:42.235Z</updated>
   <id>http://www.messi.ltd/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Git学习记录（二）</title>
+    <link href="http://www.messi.ltd/posts/1d65caa7.html"/>
+    <id>http://www.messi.ltd/posts/1d65caa7.html</id>
+    <published>2022-11-26T07:42:40.000Z</published>
+    <updated>2022-11-26T07:43:42.235Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>作者：下里巴人</p><footer><strong>来自</strong><cite>南京审计大学</cite></footer></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;作者：下里巴人&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;来自&lt;/strong&gt;&lt;cite&gt;南京审计大学&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+</summary>
+      
+    
+    
+    
+    <category term="Git" scheme="http://www.messi.ltd/categories/Git/"/>
+    
+    
+    <category term="git" scheme="http://www.messi.ltd/tags/git/"/>
+    
+  </entry>
   
   <entry>
     <title>Git学习记录（一）</title>
