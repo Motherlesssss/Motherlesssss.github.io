@@ -171,6 +171,13 @@
   </url>
   
   <url>
+    <loc>http://www.messi.ltd/tags/github/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.messi.ltd/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
     <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,13 +193,6 @@
   
   <url>
     <loc>http://www.messi.ltd/tags/%E5%90%90%E6%A7%BD/</loc>
-    <lastmod>2022-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.messi.ltd/tags/github/</loc>
     <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -220,6 +220,20 @@
   </url>
   
   <url>
+    <loc>http://www.messi.ltd/tags/%E7%94%9F%E6%97%A5/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <lastmod>2022-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.messi.ltd/tags/python/</loc>
     <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,14 +255,7 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/%E7%94%9F%E6%97%A5/</loc>
-    <lastmod>2022-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.messi.ltd/tags/%E9%9A%8F%E6%83%B3/</loc>
+    <loc>http://www.messi.ltd/tags/urllib/</loc>
     <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -256,13 +263,6 @@
   
   <url>
     <loc>http://www.messi.ltd/tags/%E4%B8%80%E4%BA%9B%E7%9F%AB%E6%83%85/</loc>
-    <lastmod>2022-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.messi.ltd/tags/urllib/</loc>
     <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
