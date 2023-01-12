@@ -182,13 +182,6 @@
 
   
   <url>
-    <loc>http://www.messi.ltd/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2023-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.messi.ltd/tags/git/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -197,6 +190,27 @@
   
   <url>
     <loc>http://www.messi.ltd/tags/github/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/tags/Mysql/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/tags/blog/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -217,13 +231,6 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/blog/</loc>
-    <lastmod>2023-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.messi.ltd/tags/html/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,13 +239,6 @@
   
   <url>
     <loc>http://www.messi.ltd/tags/markdown/</loc>
-    <lastmod>2023-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.messi.ltd/tags/Mysql/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,14 +273,7 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/urllib/</loc>
-    <lastmod>2023-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.messi.ltd/tags/%E4%B8%80%E4%BA%9B%E7%9F%AB%E6%83%85/</loc>
+    <loc>http://www.messi.ltd/tags/requests/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -294,20 +287,20 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/requests/</loc>
+    <loc>http://www.messi.ltd/tags/urllib/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/tags/%E4%B8%80%E4%BA%9B%E7%9F%AB%E6%83%85/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
-  
-  <url>
-    <loc>http://www.messi.ltd/categories/%E6%97%A5%E5%B8%B8/</loc>
-    <lastmod>2023-01-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://www.messi.ltd/categories/Git/</loc>
@@ -317,7 +310,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>http://www.messi.ltd/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/categories/Mysql/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -331,7 +331,7 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/categories/Mysql/</loc>
+    <loc>http://www.messi.ltd/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
