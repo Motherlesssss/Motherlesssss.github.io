@@ -217,14 +217,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/Mysql/</loc>
+    <loc>http://www.messi.ltd/tags/blog/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/blog/</loc>
+    <loc>http://www.messi.ltd/tags/Mysql/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,14 +273,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/requests/</loc>
+    <loc>http://www.messi.ltd/tags/scrapy/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/scrapy/</loc>
+    <loc>http://www.messi.ltd/tags/requests/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -324,14 +324,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/categories/Mysql/</loc>
+    <loc>http://www.messi.ltd/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/categories/%E5%8D%9A%E5%AE%A2%E7%9B%B8%E5%85%B3/</loc>
+    <loc>http://www.messi.ltd/categories/Mysql/</loc>
     <lastmod>2023-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
