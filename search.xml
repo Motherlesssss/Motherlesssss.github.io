@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>MySQL逐步安装及基础指令</title>
+      <link href="/posts/c9a9b63e.html"/>
+      <url>/posts/c9a9b63e.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>作者：下里巴人</p><footer><strong>来自</strong><cite>南京审计大学</cite></footer></blockquote><blockquote><p><strong>前言:</strong></p>因为博主最近开始了简单的基于Flask框架的网站搭建学习，因为涉及的知识点比较多，mysql是其中用到的数据库技术，因此，这篇博文是用来记录安装及配置mysql的，也会记录一些基础语句。</blockquote><p>#安装Mysql<br>##下载安装包</p><p>我在这里提供一下下载安装包的<a href="https://downloads.mysql.com/archives/community">下载网址</a>，大家可以直接进入选择合适自己的版本安装。（目前最新的版本已经达到了8.x，但是我下载的是5.7.31，这是一个兼容性较高的版本，因此接下来都是基于此版本的过程哦</p><img src="https://pic3.zhimg.com/80/v2-842c6a65316f3af8b3c48f68b7b0127e_1440w.webp">##解压压缩包<p>我们下载好安装包好，将其解压在一个我们可以记住的路径内，博主自己就是解压在D盘目录下的Mysql文件夹中。<p>#配置Mysql</p><p>##初始化你的Mysql<br>###添加配置文件</p><p>在你的解压目录中，新建一个名为my.txt的文本文件，将以下配置加入该文件中：</p><figure class="highlight txt"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">[mysqld]</span><br><span class="line"></span><br><span class="line">#设置本地端口号</span><br><span class="line">port=3306</span><br><span class="line"></span><br><span class="line">#你解压之后的文件路径</span><br><span class="line">basedir=D:\\mysql\\mysql-5.7.31-winx64</span><br><span class="line"></span><br><span class="line">#你将来用于存放数据的文件夹路径</span><br><span class="line">datadir=D:\\mysql\\mysql-5.7.31-winx64\\data</span><br></pre></td></tr></table></figure><div class="note danger modern"><p>填充好了之后，将你的配置文件改为<mark class="hl-label red">my.ini</mark> </p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> sql </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>在Vscode中使用Sql server</title>
       <link href="/posts/4b4f0ed4.html"/>
       <url>/posts/4b4f0ed4.html</url>
@@ -13,14 +38,14 @@
       
       <categories>
           
-          <category> Mysql </category>
+          <category> sql </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Mysql </tag>
+            <tag> sql </tag>
             
         </tags>
       
