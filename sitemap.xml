@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.messi.ltd/posts/c9a9b63e.html</loc>
+    <loc>http://www.messi.ltd/posts/55be8a54.html</loc>
     
     <lastmod>2023-03-09</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/posts/55be8a54.html</loc>
+    <loc>http://www.messi.ltd/posts/c9a9b63e.html</loc>
     
     <lastmod>2023-03-09</lastmod>
     
@@ -207,14 +207,14 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/sql/</loc>
+    <loc>http://www.messi.ltd/tags/github/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/github/</loc>
+    <loc>http://www.messi.ltd/tags/sql/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -284,6 +284,20 @@
   </url>
   
   <url>
+    <loc>http://www.messi.ltd/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.messi.ltd/tags/requests/</loc>
+    <lastmod>2023-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://www.messi.ltd/tags/%E7%94%9F%E6%97%A5/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -298,13 +312,6 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2023-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.messi.ltd/tags/scrapy/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -312,7 +319,7 @@
   </url>
   
   <url>
-    <loc>http://www.messi.ltd/tags/requests/</loc>
+    <loc>http://www.messi.ltd/tags/urllib/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -320,13 +327,6 @@
   
   <url>
     <loc>http://www.messi.ltd/tags/%E4%B8%80%E4%BA%9B%E7%9F%AB%E6%83%85/</loc>
-    <lastmod>2023-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.messi.ltd/tags/urllib/</loc>
     <lastmod>2023-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
