@@ -6,7 +6,7 @@
   <link href="http://www.messi.ltd/atom.xml" rel="self"/>
   
   <link href="http://www.messi.ltd/"/>
-  <updated>2023-01-23T13:16:13.164Z</updated>
+  <updated>2023-03-09T11:16:55.518Z</updated>
   <id>http://www.messi.ltd/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>三创项目-筛选算法及其优化</title>
+    <link href="http://www.messi.ltd/posts/55be8a54.html"/>
+    <id>http://www.messi.ltd/posts/55be8a54.html</id>
+    <published>2023-03-09T11:07:06.000Z</published>
+    <updated>2023-03-09T11:16:55.518Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>作者：下里巴人</p><footer><strong>来自</strong><cite>南京审计大学</cite></footer></blockquote><blockquote><p><strong>前言：</strong></p><p>本篇文章主要记录一下本次慧发发项目中，实现根据货物目的地自动判定物流园选择的矩阵并进行优化的过程。</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;作者：下里巴人&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;来自&lt;/strong&gt;&lt;cite&gt;南京审计大学&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;前言：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;</summary>
+      
+    
+    
+    
+    <category term="python" scheme="http://www.messi.ltd/categories/python/"/>
+    
+    
+    <category term="慧发发" scheme="http://www.messi.ltd/tags/%E6%85%A7%E5%8F%91%E5%8F%91/"/>
+    
+    <category term="python" scheme="http://www.messi.ltd/tags/python/"/>
+    
+    <category term="pandas" scheme="http://www.messi.ltd/tags/pandas/"/>
+    
+  </entry>
   
   <entry>
     <title>MySQL逐步安装及基础指令(正在持续更新)</title>

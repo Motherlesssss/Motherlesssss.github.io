@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>三创项目-筛选算法及其优化</title>
+      <link href="/posts/55be8a54.html"/>
+      <url>/posts/55be8a54.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>作者：下里巴人</p><footer><strong>来自</strong><cite>南京审计大学</cite></footer></blockquote><blockquote><p><strong>前言：</strong></p><p>本篇文章主要记录一下本次慧发发项目中，实现根据货物目的地自动判定物流园选择的矩阵并进行优化的过程。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 慧发发 </tag>
+            
+            <tag> python </tag>
+            
+            <tag> pandas </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MySQL逐步安装及基础指令(正在持续更新)</title>
       <link href="/posts/c9a9b63e.html"/>
       <url>/posts/c9a9b63e.html</url>
